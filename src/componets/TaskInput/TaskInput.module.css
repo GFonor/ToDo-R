@@ -1,0 +1,23 @@
+.container {
+    margin-bottom: 2.5rem;
+}
+
+.name {
+    color: rgb(87, 87, 103);
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.1875rem;
+    margin: 0;
+}
+
+.inputLine {
+    width: 100%;
+    border: none;
+    border-bottom: 1px black solid;
+    margin-bottom: 0.7rem;
+}
+
+.inputLine:focus {
+    outline: none;
+    border-bottom: 3px rgb(109, 12, 161) solid;
+}

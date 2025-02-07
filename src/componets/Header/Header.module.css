@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.name {
+    font-size: 3rem;
+    font-weight: 800;
+}
+
+.clearTasksButton {
+    height: fit-content;
+    padding: 12px;
+}
+
+.clearTasksButton img {
+    width: 30px;
+
+}

@@ -1,0 +1,24 @@
+.container {
+    margin: 0 0.5rem;
+    overflow-y: auto;
+}
+
+
+
+/* export default function TaskItem({ task }) {
+
+    return (
+      <div className={styles.container} id="task">
+        <p className={styles.text}>{task.text}</p>
+        <div className={styles.buttons}>
+          <button
+            onClick={() => {
+              document.getElementById('task').remove();
+            }}
+          >
+            <img src={completedImage} />
+          </button>
+        </div>
+      </div>
+    );
+  } */
