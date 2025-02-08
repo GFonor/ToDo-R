@@ -3,22 +3,10 @@
     overflow-y: auto;
 }
 
+.emptyTaskList {
+    padding: 0.9375rem 0.3125rem;
+    border: 2px solid #710083;
+    border-radius: 0.375rem;
+    text-align: center;
 
-
-/* export default function TaskItem({ task }) {
-
-    return (
-      <div className={styles.container} id="task">
-        <p className={styles.text}>{task.text}</p>
-        <div className={styles.buttons}>
-          <button
-            onClick={() => {
-              document.getElementById('task').remove();
-            }}
-          >
-            <img src={completedImage} />
-          </button>
-        </div>
-      </div>
-    );
-  } */
+}
