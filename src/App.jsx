@@ -41,11 +41,6 @@ function App() {
     localStorage.setItem('tasksList', JSON.stringify([]));
   };
 
-  // useEffect(() => {
-  //   console.log(tasks);
-  //   console.log(tasks[0]);
-  // }, [tasks]);
-
   return (
     <div className="container">
       <div className="main">
