@@ -1,8 +1,28 @@
-# React + Vite
+# 📝 ToDo-R | Simple & Fast To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 **Live demo**: [gfonor.github.io/ToDo-R](https://gfonor.github.io/ToDo-R/)
 
-Currently, two official plugins are available:
+A minimal, responsive to-do list app built with **JavaScript** and **localStorage**.  
+Create, complete, and delete tasks with ease — no backend required.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## ✅ Features
+
+- ➕ Add, complete, and remove tasks  
+- 💾 Tasks saved in your browser (localStorage)  
+- 🧼 Simple and clean UI  
+- 📱 Fully responsive design  
+
+---
+
+## 💡 Usage
+
+Feel free to **clone**, **use**, and **improve** this project!  
+Pull requests and suggestions are always welcome.
+
+```bash
+# Clone the repository
+git clone https://github.com/gfonor/ToDo-R.git
+
+# Open index.html in your browser
